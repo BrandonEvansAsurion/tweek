@@ -2,7 +2,7 @@ import React from 'react';
 import { Route } from 'react-router';
 import { Link } from 'react-router-dom';
 import classNames from 'classnames';
-import logoSrc from './resources/logo.svg';
+import logoSrc from './resources/logo.png';
 import '../styles/core/fonts/fonts.css';
 import './App.css';
 
